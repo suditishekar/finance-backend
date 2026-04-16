@@ -2,6 +2,8 @@
 
 A backend API for a finance dashboard system with role-based access control, financial record management, and summary-level analytics.
 
+Deployed on Render- https://finance-backend-0hi8.onrender.com
+
 ## Stack
 
 - **Runtime:** Node.js + TypeScript
